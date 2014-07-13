@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Dev\Scala\Lift\ExampleProjects\lift_basic\src\main\resources\logback.xml,C:\Dev\Scala\Lift\ExampleProjects\lift_basic\target\scala-2.10\classes\logback.xml)
+[debug] 	(C:\Dev\Scala\Lift\ExampleProjects\lift_basic\src\main\resources\props,C:\Dev\Scala\Lift\ExampleProjects\lift_basic\target\scala-2.10\classes\props)
+[debug] 	(C:\Dev\Scala\Lift\ExampleProjects\lift_basic\src\main\resources\props\default.props,C:\Dev\Scala\Lift\ExampleProjects\lift_basic\target\scala-2.10\classes\props\default.props)
